@@ -1,4 +1,6 @@
 Calculator 
+LINK:https://utkarsh0044.github.io/calculator/
+
 Title: Building a Simple Calculator with JavaScript
 
 Abstract: This technical note provides a step-by-step guide for building a simple calculator using JavaScript. It includes code snippets and explanations for each step of the process, from creating the HTML and CSS structure to implementing the calculator's functionality using JavaScript.
